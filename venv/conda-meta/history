@@ -1,0 +1,21 @@
+==> 2023-12-22 22:39:20 <==
+# cmd: /home/dhananjoy/anaconda3/bin/conda create -p venv python==3.8 -y
+# conda version: 4.5.11
++defaults::_libgcc_mutex-0.1-main
++defaults::ca-certificates-2023.12.12-h06a4308_0
++defaults::libedit-3.1.20210910-h7f8727e_0
++defaults::libffi-3.2.1-hf484d3e_1007
++defaults::libgcc-ng-9.1.0-hdf63c60_0
++defaults::libstdcxx-ng-9.1.0-hdf63c60_0
++defaults::ncurses-6.3-h7f8727e_2
++defaults::openssl-1.1.1w-h7f8727e_0
++defaults::pip-23.3.1-py38h06a4308_0
++defaults::python-3.8.0-h0371630_2
++defaults::readline-7.0-h7b6447c_5
++defaults::setuptools-68.2.2-py38h06a4308_0
++defaults::sqlite-3.33.0-h62c20be_0
++defaults::tk-8.6.12-h1ccaba5_0
++defaults::wheel-0.41.2-py38h06a4308_0
++defaults::xz-5.2.5-h7f8727e_1
++defaults::zlib-1.2.12-h7f8727e_2
+# update specs: ['python==3.8']

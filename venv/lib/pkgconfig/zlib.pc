@@ -1,0 +1,13 @@
+prefix=/home/dhananjoy/personal_workspace/ml/template/venv
+exec_prefix=/home/dhananjoy/personal_workspace/ml/template/venv
+libdir=/home/dhananjoy/personal_workspace/ml/template/venv/lib
+sharedlibdir=/home/dhananjoy/personal_workspace/ml/template/venv/lib
+includedir=/home/dhananjoy/personal_workspace/ml/template/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
